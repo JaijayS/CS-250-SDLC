@@ -6,23 +6,23 @@ Below is a list of items covered throughout the class:
     - Agile principles and values
     - Contrasting Agile with traditional SDLC
 
--Scrum Framework:
+- Scrum Framework:
     - Roles: Scrum Master, Product Owner, Development Team
     - Scrum events: Sprint planning, Daily Scrum, Sprint Review, Sprint Retrospective
 
--User Stories and Backlog:
+- User Stories and Backlog:
     - Creating and prioritizing user stories
     - Maintaining a product backlog
 
--Sprints and Iterative Development:
+- Sprints and Iterative Development:
     - Planning and executing Sprints
     - Incremental development and continuous integration
 
--Agile Estimation and Planning:
+- Agile Estimation and Planning:
     - Story points and velocity
     - Sprint planning and release planning
 
--Collaboration and Communication:
+- Collaboration and Communication:
     - Effective teamwork in Agile
     - Communication strategies within Agile teams
 
